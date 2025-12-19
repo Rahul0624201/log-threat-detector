@@ -99,33 +99,33 @@ Key options include:
 
 🛡️ Why This Matters
 
-This project demonstrates:
+- This project demonstrates:
 
-Log analysis and parsing
+- Log analysis and parsing
 
-Threat detection logic
+- Threat detection logic
 
-Blue-team defensive thinking
+- Blue-team defensive thinking
 
-SOC-style alert generation
+- SOC-style alert generation
 
-Python automation for security monitoring
+- Python automation for security monitoring
 
-It mirrors real-world workflows used by SOC analysts and security engineers.
+- It mirrors real-world workflows used by SOC analysts and security engineers.
 
 📈 Future Improvements
 
-Windows Event Log (4624/4625) support
+- Windows Event Log (4624/4625) support
 
-GeoIP / ASN enrichment for IPs
+- GeoIP / ASN enrichment for IPs
 
-Whitelist / allowlist handling
+- Whitelist / allowlist handling
 
-MITRE ATT&CK mapping for alerts
+- MITRE ATT&CK mapping for alerts
 
-Simple web dashboard
+- Simple web dashboard
 
-Unit tests with pytest
+- Unit tests with pytest
 
 🧾 Sample Resume Bullet
 
