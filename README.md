@@ -17,13 +17,13 @@ This project simulates real SOC (Security Operations Center) workflows by turnin
 
 🛠️ Tech Stack
 
-Python 3.10+
+- Python 3.10+
 
-Python Standard Library only (no external dependencies)
+- Python Standard Library only (no external dependencies)
 
-Regex-based log parsing
+- Regex-based log parsing
 
-CLI using argparse
+- CLI using argparse
 
 📁 Project Structure
 
